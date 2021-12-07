@@ -1,0 +1,9 @@
+            
+            h1 {font-size: 40px;text-align:center;color:rgb(215, 201, 239);font-family: lemonde-sans, sans-serif;font-weight: 600;font-style: italic;}
+            h2{color: rgb(191, 226, 171);margin-left: 3%;font-family: lemonde-sans, sans-serif;font-weight: 600;font-style: italic}
+            img{max-width: auto; height: auto;padding-left: 15%;}
+            p {color: rgb(202, 199, 199); margin-left: 5%;margin-right:5%; font-family: garamond-premier-pro, serif;font-weight: 400;font-style: normal;font-size: larger;}   
+            .darkbg{background-color: rgba(255, 159, 49, 0.356);padding:3%}
+            .border{border: 3px rgb(214, 200, 239) solid;padding:3%}
+            .container{border: 3px rgb(215, 201, 239) solid}
+            body{ padding:10% }
